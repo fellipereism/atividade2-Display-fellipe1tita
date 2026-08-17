@@ -17,5 +17,29 @@ header {
 }
 
 main {
-    padding: 30px
+    
+    .meusprojetos {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+    
+    
+    li {
+        text-decoration: none;
+        display: inline;
+        margin: 2px;
+        padding: 50px;
+        border: 2px solid black;
+        
+
+        .Projetos {
+            margin-top: 20px;
+            display: inline;
+        }
+        
+    }
+
+    .sobre {
+        margin-top: 70px;
+    }
 }
