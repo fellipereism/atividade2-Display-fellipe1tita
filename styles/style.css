@@ -6,11 +6,17 @@
 
 header {
     padding: 1px;
+    
     li {
         display: inline-block;
         width: 100px;
-        height: 70px;
+        height: 40px;
         border: 2px solid black;
+        text-align: center;
+        
+        a {
+          color: blue;  
+        }
     }
 }
 
