@@ -40,7 +40,7 @@ main {
         margin-bottom: 20px;
     }
     span {
-        border: 2px strong black;
+        border: 2px solid black;
     }
 
     div {
