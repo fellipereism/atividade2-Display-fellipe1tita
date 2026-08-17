@@ -5,22 +5,20 @@
 }
 
 header {
-    padding: 2px;
+    padding: 1px;
     li {
         display: inline-block;
         width: 100px;
         height: 70px;
         border: 2px solid black;
-        align-items: center;
-        
     }
 }
 
 main {
     
-    .meusprojetos {
-        padding-top: 30px;
-        padding-bottom: 30px;
+    h2 {
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
     
     
@@ -38,15 +36,13 @@ main {
         
     }
 
-    .sobre {
-        margin-top: 70px;
+    p {
+        margin-bottom: 20px;
     }
-
-
     span {
         border: 2px strong black;
-        }
-        
+    }
+
     div {
         margin: 3px;
         padding-top: 20px;
