@@ -5,32 +5,31 @@
 }
 
 header {
-    margin-top: 30px;
     padding: 2px;
     li {
-        display: inline;
-        padding: 20px;
+        display: inline-block;
+        width: 100px;
+        height: 70px;
         border: 2px solid black;
-        margin-left: 3px;
-
+        align-items: center;
+        
     }
 }
 
 main {
     
     .meusprojetos {
-        padding-top: 50px;
-        padding-bottom: 80px;
+        padding-top: 30px;
+        padding-bottom: 30px;
     }
     
     
-    li {
+    section {
         text-decoration: none;
-        display: inline;
-        margin: 2px;
-        padding: 50px;
+        display: inline-block;
+        width: 200px;
+        height: 125px;
         border: 2px solid black;
-        
 
         .Projetos {
             margin-top: 20px;
@@ -41,5 +40,19 @@ main {
 
     .sobre {
         margin-top: 70px;
+    }
+
+
+    span {
+        border: 2px strong black;
+        }
+        
+    div {
+        margin: 3px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border: 2px solid black;
+
+        
     }
 }
